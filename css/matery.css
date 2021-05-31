@@ -242,7 +242,7 @@ mark {
 
 .bg-color {
     /* //修改成自己喜欢的颜色值 */
-    background-image: linear-gradient(to right, #09f815 0%, #fa09e6 100%); 
+    background-image: linear-gradient(to right, #ffffff 0%, #ffffff 100%); 
     /* //透明效果 值范围 0~1，看情况自己修改 */
     opacity: 0.8;  
 }
@@ -945,7 +945,7 @@ article .article-tags .chip {
     font-weight: 400;
     height: 22px;
     line-height: 22px;
-    color: #fff;
+    color: #000000;
     border-radius: 10px;
 }
 
@@ -1842,11 +1842,11 @@ footer .social-statis {
 }
 
 footer a {
-    color: #fff;
+    color: #000000;
 }
 
 footer .copy-right {
-    color: #dbdbdb;
+    color: #000000;
 }
 
 /*搜索层样式*/
