@@ -43,25 +43,17 @@
     
     
     <entry>
-      <title>初来乍到</title>
-      <link href="2021/05/27/hello-wodr/"/>
-      <url>2021/05/27/hello-wodr/</url>
+      <title>第一篇</title>
+      <link href="2021/05/28/haha/"/>
+      <url>2021/05/28/haha/</url>
       
-        <content type="html"><![CDATA[<pre><code class="bash">$ hexo new "My New Post"</code></pre>]]></content>
+        <content type="html"><![CDATA[<p>嗨喽！很高兴和大家相遇写这个博客是为了记录自己的前端生涯。在初中接触到了代刷网，从此对前端产生了很大的乐趣，慢慢的我放下了游戏也想自己编写一个程序，刚开始我和别人买源码创作了我的第一个网站。<br>我的第一个网站就是代刷网，因为对前端的痴迷又没有技术（就是所说的有菜又爱玩）所以和别人买来了源码，花了60块钱买了彩虹代刷网源码，然后我又在阿里云上买了个30块钱的cn域名，和别人买了个社区货源代理100，然后往社区冲了将近300货源的钱，还有很多多就不多说了，然后又买了个主机自己搭建加起来六七百块钱。开始了我的第一个网站的道路。<img src="http://xiaobin.test.upcdn.net/wwwroot/bizhi.png" alt="alt"><br>别看也就六七百块钱可当时我还在上初中，所以这钱对我来说是能承受的极限了。刚开始代刷网收入极低每天差不多一块钱收入都没有，后面慢慢有了几个客户收入也慢慢有了起色一天也有10-20块钱收入。</p><!-- ![alt](http://xiaobin.test.upcdn.net/wwwroot/bizhi2.png) --><p>一个月过去了我收入差不多四百多吧，因为我是因为热爱才弄得网站所以对我来说能有一点收入也挺满足得，最起码不亏钱就行。只要一有收入我就专修我那小破站，可好久不长我对接的那个已支付跑路了所以后面的收入也就打了水漂。将近亏了三百多吧，后面因为中考我也就没怎么经营我那小破站了。<br>我把全部商品价格调到最低然后给我那些客户，因为他们也支持过我就算关站前最后的福利吧，六个月过后我那小破站正式的宣布了关闭，可以说没资金和没那经历去维护就此宣告倒闭了。</p><!-- #表示标签#越多标题越小 -->]]></content>
       
-      
-      <categories>
-          
-          <category> Markdown </category>
-          
-      </categories>
       
       
         <tags>
             
-            <tag> Typora </tag>
-            
-            <tag> Markdown </tag>
+            <tag> 自己经历 </tag>
             
         </tags>
       
@@ -70,9 +62,9 @@
     
     
     <entry>
-      <title>第一篇博客</title>
-      <link href="2021/05/27/haha/"/>
-      <url>2021/05/27/haha/</url>
+      <title>第四篇</title>
+      <link href="2021/05/27/hello-wodr/"/>
+      <url>2021/05/27/hello-wodr/</url>
       
         <content type="html"><![CDATA[<pre><code class="bash">$ hexo new "My New Post"</code></pre>]]></content>
       
